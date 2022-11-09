@@ -5,4 +5,4 @@ mx: cluster2.eu.messagelabs.com
 mx: mxa.eu.mailgun.org
 mx: cluster2a.eu.messagelabs.com
 mx: mxb.eu.mailgun.org
-max_age: 86400
+max_age: 1209600
