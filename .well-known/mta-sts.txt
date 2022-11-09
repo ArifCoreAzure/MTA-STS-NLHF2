@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforced
 mx: hlf-org-uk.mail.protection.outlook.com
 mx: cluster2.eu.messagelabs.com
 mx: mxa.eu.mailgun.org
